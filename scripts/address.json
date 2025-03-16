@@ -1,0 +1,19 @@
+{
+    "localhost": {
+        "voiceVault":"0x5FbDB2315678afecb367f032d93F642f64180aa3",
+        "voiceVaultFactory":"0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "basetestnet":{
+        "voiceVault":"0xaf36D13030c6D5F45E13aa84446a87432EC85F8D",
+        "voiceVaultFactory":"0x8FC970d7368C650AF6B44AFD7890Fecb1Cafd333"
+    },
+    "storytestnet":{
+        "voiceVault":"0xf1bF5CCB0bC7C6fa20a787227e4E53726B28786a",
+        "voiceVaultFactory":"0xD55506630b711577E8292f2C6ba0a706D6a69BE3",
+        "registerVoiceVaultAsset":"0xB7840eDcA1F825485E835A957E7C9489dFe8D7fF"
+    },
+    "base":{
+        "voiceVault":"",
+        "voiceVaultFactory":""
+    }
+}
